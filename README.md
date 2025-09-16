@@ -1,3 +1,2 @@
-# TuntunSagur
-this is TuntunSagur. Used for lessons
-my first repo
+# это мой первый проект
+Создан в рамках лаборатории 1
